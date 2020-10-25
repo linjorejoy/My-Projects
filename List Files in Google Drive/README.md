@@ -54,6 +54,7 @@ Open a new Google Sheets and goto
   If you Need the Tree Structure from only any specific folder then use this option
 
   On Clicking this you will be prompted to enter the Foder Id.
+  
     <img src="img/folderById.jpg" alt="OptionsInMenu" width="300">
 
   The Part After `https://drive.google.com/drive/my-drivefolders/` is the Id of any folder
@@ -74,6 +75,7 @@ Open a new Google Sheets and goto
   If you Need the Tree Structure from only any specific folder then use this option
 
   On Clicking this you will be prompted to enter the Foder Name.
+
     <img src="img/folderByName.jpg" alt="OptionsInMenu" width="300">
 
 Name will be the **FolderName** which is given to the Folder in google drive.
