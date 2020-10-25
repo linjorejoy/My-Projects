@@ -4,29 +4,31 @@
 <br>
 
 ---
-### Setting Up
+## **Setting Up**
 ---
 <br>
+
+
 Open a new Google Sheets and goto 
 
- > Tools > Script Editor
+* Tools > Script Editor
 
-![img](img/ScriptEditor.jpg)
+<img src="img/ScriptEditor.jpg" alt="scriptEditor" width="300">
 
-> This will open a new App Script file with a <b>Code.gs </b>already present.
 
-> Paste the Script from `listFilesInDrive.gs` to the newly created app script.
+* This will open a new App Script file with a <b>Code.gs </b>already present.
 
-> Save and Close
+* Paste the Script from `listFilesInDrive.gs` to the newly created app script.
 
-> Refresh the Google Sheets
+* Save and Close
 
-> A New Menu Item named **Make New Tree** will be present
+* Refresh the Google Sheets
+
+* A New Menu Item named **Make New Tree** will be present
 
 <br>
 <br>
-
-![img](img/OptionsInMenu.jpg)
+<img src="img/OptionsInMenu.jpg" alt="OptionsInMenu" width="300">
 
 <br>
 <br>
@@ -34,8 +36,13 @@ Open a new Google Sheets and goto
 ---
 ---
 
+## **Using the App**
 
-* # From Root Folder(Recommended)
+---
+---
+
+
+* ## From Root Folder(Recommended)
   It Will Create a New Sheet with the Name 
   > \<Your User Name> \<Date and Time>
 
@@ -43,16 +50,15 @@ Open a new Google Sheets and goto
 
 <br>
 
-* # <a name="folderById"></a>Select Folder By Id(Recommended)
+* ## <a name="folderById"></a>Select Folder By Id(Recommended)
   If you Need the Tree Structure from only any specific folder then use this option
 
   On Clicking this you will be prompted to enter the Foder Id.
-
-  ![FolderById](img/folderById.jpg)
+    <img src="img/folderById.jpg" alt="OptionsInMenu" width="300">
 
   The Part After `https://drive.google.com/drive/my-drivefolders/` is the Id of any folder
 
-  ![folderId](img/folderId.jpg)
+    <img src="img/folderId.jpg" alt="OptionsInMenu" width="300">
 
   Paste it to the dialogue Box and Click **Ok.**
   It Will Create a New Sheet with the Name 
@@ -64,13 +70,18 @@ Open a new Google Sheets and goto
 <br>
 <br>
 
-* # Select Folder By Name
+* ## Select Folder By Name
   If you Need the Tree Structure from only any specific folder then use this option
 
   On Clicking this you will be prompted to enter the Foder Name.
-
-![folderByName](img/folderByName.jpg)
+    <img src="img/folderByName.jpg" alt="OptionsInMenu" width="300">
 
 Name will be the **FolderName** which is given to the Folder in google drive.
+
+  Paste it to the dialogue Box and Click **Ok.**
+  It Will Create a New Sheet with the Name 
+  > \<Your User Name> \<Date and Time>
+
+  And then generate the tree structutre.
 
 If more than 2 forders having the same name is present in the drive then using [Select Folder By Id](#folderById) would be the better Option.
