@@ -54,12 +54,12 @@ Open a new Google Sheets and goto
   If you Need the Tree Structure from only any specific folder then use this option
 
   On Clicking this you will be prompted to enter the Foder Id.
-  
+
     <img src="img/folderById.jpg" alt="OptionsInMenu" width="300">
 
   The Part After `https://drive.google.com/drive/my-drivefolders/` is the Id of any folder
 
-    <img src="img/folderId.jpg" alt="OptionsInMenu" width="300">
+    <img src="img/folderId.jpg" alt="OptionsInMenu" width="500">
 
   Paste it to the dialogue Box and Click **Ok.**
   It Will Create a New Sheet with the Name 
