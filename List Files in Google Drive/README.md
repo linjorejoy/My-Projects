@@ -89,3 +89,17 @@ Name will be the **FolderName** which is given to the Folder in google drive.
   And then generate the tree structutre.
 
 If more than 2 forders having the same name is present in the drive then using [Select Folder By Id](#folderById) would be the better Option.
+
+<br>
+<br>
+
+---
+---
+## **RESULT**
+---
+---
+
+
+<img src="img/result.jpg" alt="Result Image" width="450">
+
+This will be how it will look in Google Sheets. The **unhighlighted** portion will be the folders with Name of folder as name of the merged cell. The cells marked in **green** shows the file name and the ones marked in **blue** will show the size of the particular file in bytes.
