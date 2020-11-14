@@ -27,7 +27,7 @@
 
   Change it as per requirement
 
-<img alt="bat File" src="img/Bat%20File%20Guide.png" width="500">
+<img alt="bat File" src="img/Bat%20File%20Guide.png" width="1000">
     
 > Save it and Run it
 
