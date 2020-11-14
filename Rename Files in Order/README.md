@@ -21,6 +21,8 @@
 
 ## Guide for using the File
 
+* Move this bat file to the folder where all files are present
+
 * Change the values in the bat file by 
 
 > Click on file > Right Click > edit
